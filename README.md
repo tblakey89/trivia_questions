@@ -17,6 +17,8 @@ When answering questions at interviews, simply knowing the answer isn't enough, 
 #### Explain how HTTP works
 #### Explain how HTTPS works
 #### Explain how HTTP2 works
+#### What port does HTTP use?
+#### What port does HTTPS use?
 
 ## HTML/CSS
 #### Explain how HTML is rendered in the browser
