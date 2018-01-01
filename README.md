@@ -32,6 +32,9 @@ When answering questions at interviews, simply knowing the answer isn't enough, 
 #### How are NoSQL databases different to relational databases?
 #### When would you use a NoSQL database over a relational database?
 
+## CDN
+#### Why use a CDN?
+
 ## Containerisation
 #### What is Docker?
 #### What is Kubernetes?
