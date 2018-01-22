@@ -13,6 +13,9 @@ When answering questions at interviews, simply knowing the answer isn't enough, 
 #### What is a form object?
 #### Explain services as commonly used in Rails
 
+## Testing
+#### Explain the difference between Test First and TDD
+
 ## HTTP
 #### Explain how HTTP works
 #### Explain how HTTPS works
