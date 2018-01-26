@@ -58,3 +58,4 @@ When answering questions at interviews, simply knowing the answer isn't enough, 
 #### What is TLS?
 #### Explain how a cross site scripting attack works?
 #### What are the most common security vulnerabilities in websites?
+#### Explain CORS
