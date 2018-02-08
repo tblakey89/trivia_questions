@@ -59,3 +59,11 @@ When answering questions at interviews, simply knowing the answer isn't enough, 
 #### Explain how a cross site scripting attack works?
 #### What are the most common security vulnerabilities in websites?
 #### Explain CORS
+
+## Javascript
+#### What is a closure?
+#### How would you get data asyncronously?
+#### What is the difference between call, bind and apply?
+
+## Misc
+#### What is cyclomatic complexity?
